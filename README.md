@@ -4,7 +4,9 @@
 <p align="center">
                       <img width="281" height="402" alt="Captura de tela 2026-06-10 190241" src="https://github.com/user-attachments/assets/99db37bd-6e3c-485d-b9db-86dd66a64820" />
 </p>
-
+<p>
+  Objetivo: Aprender e dominar mais function do JavaScript
+</p>
 
 <footer>
 Créditos do criador
