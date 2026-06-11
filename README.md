@@ -9,6 +9,9 @@
 </p>
 
 <footer>
+Link do Projeto
+<p>https://eric-takeda.github.io/Lampada/</p>
+
 Créditos do criador
 <p>https://github.com/fernandoLeonid</p>
 <p>https://github.com/fernandoleonid/mini-projetos-js/tree/master/01-lamp</p>
